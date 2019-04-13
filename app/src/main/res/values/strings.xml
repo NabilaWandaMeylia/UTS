@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Myapplication</string>
+
+    <string name="title_activity_login">Sign in or create an account</string>
+    <string name="title_activity_main">Dashboard</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_repeat">Password (Diulang)</string>
+    <string name="prompt_name">Nama Lengkap</string>
+    <string name="prompt_phone">Nomor Telepon</string>
+    <string name="action_sign_in">Masuk atau Mendaftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="action_register">Buat akun baru?</string>
+    <string name="action_have_account">Sudah memiliki akun?</string>
+    <string name="action_submit">Kirim</string>
+    <string name="error_invalid_email">Alamat email tidak valid</string>
+    <string name="error_unavailable_email">Email sudah pernah terdaftar</string>
+    <string name="error_invalid_password">Password tidak valid</string>
+    <string name="error_invalid_password_repeat">Ulangi password dengan benar</string>
+    <string name="error_incorrect_password">Password yang Anda masukkan salah</string>
+    <string name="error_old_password">Password lama salah</string>
+    <string name="error_field_required">Kolom ini tidak boleh dikosongi</string>
+    <string name="permission_rationale">"Izin kontak diperlukan untuk menyediakan penyelesaian email."</string>
+    <string name="login_header_information">Isilah form ini dengan akun login anda,
+        atau buat akun terlebih dahulu untuk dapat menggunakan aplikasi ini.</string>
+
+    <string name="txt_welcome">ANNYEONG HASEYO (안녕하세요)</string>
+
+    <string name="isi_hangul">Hangeul diciptakan oleh Raja Sejong, 세종 대왕 1397-1450) pada tahun 1443 pada masa Dinasti loseon</string>
+    <string name="content_text_hangul">VOKAL TUNGGAL</string>
+    <string name="content_text_vokaltunggal">아	= a \n 야  = ya \n 어 = eo/o \n 여 = yeo \n 오 = o \n 요 = yo \n 우 = u \n 유 = yu \n 으 = eu/u \n 이 = i</string>
+    <string name="content_text_hangul2">VOKAL RANGKAP</string>
+    <string name="content_text_vokalrangkap">애	= ae/e	      아 + 이 \n
+얘 = yae/ye	      야 + 이 \n
+에 = e	      어 + 이 \n
+예 = ye	      여 + 이 \n
+외 = oe	      오 + 이 \n
+와 = wa	      오 + 아 \n
+왜 = wae/we	      오 + 애 \n
+워 = wo	      우 + 어 \n
+웨 = we	      우 + 에 \n
+위 = wi	      우 + 이 \n
+의 = eui/ui	      으 + 이 \n</string>
+    <string name="content_text_hangul3">KONSONAN TUNGGAL</string>
+    <string name="content_text_konsonantunggal">ㄱ	(kiyeok) = k/g \n
+ㄴ	(nieun) = n	\n
+ㄷ	(tigeut) = t/d \n
+ㄹ	(rieul)= r/l \n
+ㅁ	(mieum) = m	\n
+ㅂ	(pieup) = p/b \n
+ㅅ	(siot) = s	\n
+ㅇ	(ieung) = –/ng \n
+ㅈ	(chieut) = ch \n
+ㅊ	(ch’ieut) = ch	\n
+ㅋ	(khieuk) = kh	\n
+ㅌ	(thieut) = th	\n
+ㅍ  (phieup) = ph	\n
+ㅎ	(hieut) = h \n</string>
+
+    <string name="content_text_hangul4">KONSONAN RANGKAP</string>
+    <string name="content_text_konsonanrangkap">ㄲ = kk \n
+ㄸ = tt \n
+ㅃ = pp \n
+ㅆ = ss \n
+ㅉ = cc \n
+    </string>
+
+    <string name="btn_logout">Logout</string>
+</resources>
